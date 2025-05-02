@@ -1,3 +1,4 @@
+#Desarrollado por: Samuel Perez
 from flask import Flask, request, jsonify
 import time
 import psycopg2
