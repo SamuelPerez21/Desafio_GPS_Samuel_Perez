@@ -68,7 +68,7 @@ Rutas de prueba Evaluaciones:
       
     Ahora es importante mencionar que este metodo solo funciona si ya hay un estudiante previamente creado, por lo cual para que funcione se debe crear primero un estudiante con exito y despues crear dicha evaluacion con el rut.
 
-    Finalmente si se desea terminar con la instacia y eliminar todo rastro de lo creado, se debe ejecutar dicho codigo en el CMD o en la terminal del editor de codigo el siguiente comando:
+    Finalmente si se desea terminar con la instacia y eliminar todo rastro de lo creado, se debe ejecutar el siguiente codigo en el CMD o en la terminal del editor de codigo el siguiente comando:
 
     docker-compose down -v --rmi all --remove-orphans
 
