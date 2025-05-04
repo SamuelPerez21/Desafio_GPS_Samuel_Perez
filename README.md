@@ -61,9 +61,9 @@ Rutas de prueba Evaluaciones:
        
             {
             "asignatura": "X",
-            "evaluacion": 1.0,
             "rut_estudiante": "XXXXXXXX-X",
-            "semestre": "X"
+            "semestre": "X",
+            "evaluacion": 1.0
             }
       
     Ahora es importante mencionar que este metodo solo funciona si ya hay un estudiante previamente creado, por lo cual para que funcione se debe crear primero un estudiante con exito y despues crear dicha evaluacion con el rut.
