@@ -45,7 +45,7 @@ Rutas de prueba Estudiantes:
             "rut_estudiante":"XXXXXXXX-X",
             "semestre": "X",
             "asignatura":"X",
-            "nota": 1.0  
+            "evaluacion": 1.0  
             }
     
 Rutas de prueba Evaluaciones:
