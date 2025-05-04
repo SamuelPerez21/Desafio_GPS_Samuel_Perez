@@ -42,10 +42,10 @@ Rutas de prueba Estudiantes:
     - Ahora si bien esta ruta es similar a la anterior,  es de tipo POST y para hacerla funcionar se deben de ingresar en un JSON en este formato : 
 
             {
-            "rut_estudiante":"XXXXXXXX-X",
-            "semestre": "X",
-            "asignatura":"X",
-            "evaluacion": 1.0  
+            "rut":"XXXXXXXX-X",
+            "nombre": "X",
+            "curso":"X",
+            "edad": xx 
             }
     
 Rutas de prueba Evaluaciones:
