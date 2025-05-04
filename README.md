@@ -6,24 +6,24 @@ Este pequeño proyecto implementa microservicios usando las siguientes tecnologi
  - Docker, Docker Desktop, Docker compose
  - Python (3.11) 
     Librerias:
-    -flask
-        -Flask, request, jsonify
-    -time
-    -psycopg2
-    -os
+    - flask
+        - Flask, request, jsonify
+    - time
+    - psycopg2
+    - os
  - PostgreSQL 13
  - Postman (Pruebas)  
 
 Para hacer pruebas en este sistema de micro-servicios sigue los siguientes pasos:
 
-Paso 1 : Clona el repositoro desde este link
-    - https://github.com/SamuelPerez21/Desafio_GPS_Samuel_Perez.git
+Paso 1 : Clona el repositoro desde este link:
+    https://github.com/SamuelPerez21/Desafio_GPS_Samuel_Perez.git
 
 Paso 2 : Desde la consola o desde la terminal de el editor de codigo, ejecutar desde la carpeta raiz:
-    - docker-compose -d --build 
+    docker-compose -d --build 
 
 Paso 3 : Una vez ejecutado puedes verificar que se hayan creado tanto las imagenes como los contenedores, ademas , de no tenerla,
-         revisar si la imagen de postgre 13 se encuentra corriendo todo esto se puede revisar en docker-desktopgm.
+         revisar si la imagen de postgre 13 se encuentra corriendo todo esto se puede revisar en docker-desktop.
 
 
 PRUEBAS:
